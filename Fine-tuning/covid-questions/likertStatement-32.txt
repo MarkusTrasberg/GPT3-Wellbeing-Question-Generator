@@ -1,0 +1,5 @@
+1. I feel worried about the Covid-19 outbreak.
+2. I feel scared about the Covid-19 outbreak.
+3. I feel helpless about the Covid-19 outbreak.
+4. I feel OK about the Covid-19 outbreak.
+5. I feel good about the Covid-19 outbreak.

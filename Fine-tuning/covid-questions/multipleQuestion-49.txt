@@ -1,0 +1,34 @@
+1. How do you feel about managing personal and work life demands during the Covid-19 pandemic?
+
+a. I feel equipped to manage both personal and work life demands right now.
+b. I am finding it difficult to manage both personal and work life demands right now.
+c. I am not sure how to manage both personal and work life demands right now.
+d. I am not concerned about managing both personal and work life demands right now.
+
+2. How do you feel about the pace of work during the Covid-19 pandemic?
+
+a. I find the pace of work here energizing.
+b. I find the pace of work here to be too slow.
+c. I find the pace of work here to be too fast.
+d. I am not sure about the pace of work during the Covid-19 pandemic.
+
+3. How productive are you in your current environment during the Covid-19 pandemic?
+
+a. I can work productively in my current environment.
+b. I find it difficult to work productively in my current environment.
+c. I am not sure if I can work productively in my current environment.
+d. I do not care about being productive in my current environment.
+
+4. Have you been able to set-up a daily routine that you tend to follow during the Covid-19 pandemic?
+
+a. Yes, I have been able to set-up a daily routine that I tend to follow.
+b. No, I have not been able to set-up a daily routine that I tend to follow.
+c. I am not sure if I have been able to set-up a daily routine that I tend to follow.
+d. I do not care about setting-up a daily routine during the Covid-19 pandemic.
+
+5. Are you able to make necessary changes in how you work to improve your own wellbeing during the Covid-19 pandemic?
+
+a. Yes, I am able to make necessary changes in how I work to improve my own wellbeing.
+b. No, I am not able to make necessary changes in how I work to improve my own wellbeing.
+c. I am not sure if I am able to make necessary changes in how I work to improve my own wellbeing.
+d. I do not care about making necessary changes in how I work to improve my own wellbeing.

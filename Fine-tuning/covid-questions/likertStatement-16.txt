@@ -1,0 +1,5 @@
+1. I feel very worried about self-isolating.
+2. I feel a bit worried about self-isolating.
+3. I don't feel very worried about self-isolating.
+4. I feel OK about self-isolating.
+5. I feel good about self-isolating.

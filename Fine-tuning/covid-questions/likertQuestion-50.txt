@@ -1,0 +1,5 @@
+1. How stressed do you feel about Covid-19?
+2. How productive do you feel about Covid-19?
+3. How positive do you feel about Covid-19?
+4. How much energy do you feel about Covid-19?
+5. How able do you feel to bounce back about Covid-19?

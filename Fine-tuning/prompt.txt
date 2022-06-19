@@ -1,0 +1,5 @@
+The following is a passage about Covid-19.
+
+PASSAGE: <<TEXT>>
+
+Generate multiple choice well-being questions about Covid-19 based on the above passage. Do not generate any answers. Questions should end with a question mark.
