@@ -1,5 +1,8 @@
 import xlrd
 
+
+## Generate .txt file from every row of a Excel sheet.
+
 def replace_with_underscores(cell):
     return cell.value.replace(" ", "_")
 

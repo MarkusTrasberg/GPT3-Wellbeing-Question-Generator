@@ -3,5 +3,4 @@ Fine-tuning/.idea/
 Website/node_modules/
 Website/venv/
 Website/api/__pycache__/
-Website/.env
 Website/package-lock.json

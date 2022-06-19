@@ -1,6 +1,11 @@
 import json
 import os
 
+
+## Generates .jsonl file.
+## Prompt: TOPIC + TYPE
+## OUTPUT: Question
+
 if __name__ == '__main__':
     result = list()
     for filename in os.listdir('covid-questions/'):
